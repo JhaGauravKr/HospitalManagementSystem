@@ -25,18 +25,6 @@ python app.py
 [Click here to view documentation](https://documenter.getpostman.com/view/457459/hospitalmanagementsystem/2HQup9)
 
 
-
-## screenshot
-
-<a href="../../" target="_blank"><img src="https://raw.githubusercontent.com/tushariscoolster/HospitalManagementSystem/master/1.png" height="300"></a>
-<a href="../../" target="_blank"><img src="https://raw.githubusercontent.com/tushariscoolster/HospitalManagementSystem/master/2.png" height="300"></a>
-<a href="../../" target="_blank"><img src="https://raw.githubusercontent.com/tushariscoolster/HospitalManagementSystem/master/3.png" height="300"></a>
-<a href="../../" target="_blank"><img src="https://raw.githubusercontent.com/tushariscoolster/HospitalManagementSystem/master/4.png" height="300"></a>
-<a href="../../" target="_blank"><img src="https://raw.githubusercontent.com/tushariscoolster/HospitalManagementSystem/master/5.png" height="300"></a>
-<a href="../../" target="_blank"><img src="https://raw.githubusercontent.com/tushariscoolster/HospitalManagementSystem/master/6.png" height="300"></a>
-<a href="../../" target="_blank"><img src="https://raw.githubusercontent.com/tushariscoolster/HospitalManagementSystem/master/7.png" height="300"></a>
-
-
 ## License
 
  Use this guide. Attributions are appreciated._
